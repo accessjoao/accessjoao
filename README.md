@@ -3,7 +3,21 @@
 Welcome to my GitHub! :roller_coaster: :airplane:
 
 
+I'm a Full-stack software engineer, experienced with Javascript, Node, Express, SQL, Mongo, and especially React.
 
+These are my latest projects, which I'm very proud of:
+
+Zims:
+
+https://github.com/accessjoao/zims
+
+I Was Here:
+
+https://github.com/accessjoao/iwashere
+
+Mixed Tape React:
+
+https://github.com/accessjoao/mixed-tape-react
 
 
 <!--

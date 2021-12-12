@@ -7,15 +7,15 @@ I'm a Full-stack software engineer, experienced with Javascript, Node, Express, 
 
 These are my latest projects, which I'm very proud of:
 
-Zims:
+:tiger: Zims:
 
 https://github.com/accessjoao/zims
 
-I Was Here:
+:globe_with_meridians: I Was Here:
 
 https://github.com/accessjoao/iwashere
 
-Mixed Tape React:
+:musical_note: Mixed Tape React:
 
 https://github.com/accessjoao/mixed-tape-react
 

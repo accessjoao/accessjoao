@@ -3,9 +3,9 @@
 Welcome to my GitHub! :roller_coaster: :airplane:
 
 
-I'm a Full-stack software engineer, experienced with Javascript, Node, Express, SQL, Mongo, and especially React.
+I'm a Software Engineer experienced with Javascript, Node, Express, SQL, Mongo, and especially React.
 
-These are my latest projects, which I'm very proud of:
+I'm very proud of my latest projects and I invite you to check them out!
 
 :tiger: Zims:
 

@@ -21,9 +21,9 @@ https://github.com/accessjoao/mixed-tape-react
 
 📫 How to reach me: joaofe747@gmail.com
 
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 
 
-({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
 
 <!--
 **accessjoao/accessjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

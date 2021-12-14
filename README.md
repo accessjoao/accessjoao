@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Joao! 👋
 
 Welcome to my GitHub! :roller_coaster: :airplane:
 
@@ -19,7 +19,12 @@ https://github.com/accessjoao/iwashere
 
 https://github.com/accessjoao/mixed-tape-react
 
-📫 How to reach me: joaofe747@gmail.com
+📫 How to reach me: 
+
+Email: joaofe747@gmail.com
+LinkedIn: https://www.linkedin.com/in/joao-felipe-silveira/
+
+#### Tech Stack
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />

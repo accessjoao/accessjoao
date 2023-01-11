@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/86314106/146080605-128863c8-4a1e-4708-
 
 https://github.com/accessjoao/accesssolutions
 
-![accesssolutions](https://i.ibb.co/x8sg9kc/2022-11-28.png)
+![accesssolutions](https://i.ibb.co/GCwcbmd/accesss.png)
 
 🐱‍🚀 Golden Lego Store:
 

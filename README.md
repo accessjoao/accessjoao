@@ -7,6 +7,8 @@ I'm a Software Developer experienced in Javascript, Node.js, Express, SQL, Mongo
 
 In my free time, you can find me contributing to open source projects or tinkering with new frameworks and libraries. Feel free to check out my repository and connect with me on LinkedIn!
 
+<!---
+
 :tiger: Zims:
 
 https://github.com/accessjoao/zims
@@ -32,6 +34,8 @@ https://github.com/accessjoao/iwashere
 :musical_note: Mixed Tape React:
 
 https://github.com/accessjoao/mixed-tape-react
+
+-->
 
 📫 How to reach me: 
 
